@@ -7,11 +7,13 @@
 
 - 🌱 I’m currently learning **Business Information Systems**
 
-- 👯 I’m looking to collaborate on **Bug Bounty Hunting**
+- 🤝 I’m looking to collaborate on **Bug Bounty Hunting**
 
-- 📝 I regularly write articles on [@beshoy902](https://beshoy902.medium.com)
+- 📝 I regularly write articles on **[@beshoy902](https://beshoy902.medium.com)**
 
 - 📫 How to reach me **[beshoy902@wearehackerone.com](mailto:beshoy902@wearehackerone.com)**
+
+- 👨🏻‍💻 Follow me on **[Linkedin](https://linkedin.com/in/beshoy902)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
