@@ -29,13 +29,8 @@
 
 
 <h3 align="left">Support:</h3>
-<h5 align="left">For Egyptian</h5>
-<p><a href="https://ipn.eg/S/ashraf902/instapay/3ozZuD"> <img align="left" src="https://english.ahram.org.eg/Media/News/2024/10/31/41_2024-638659653120375735-37.jpg" height="20%" width="20%" border-raduis:"10%" alt="beshoy902" /></a></p><br><br>
-<br><br><br>
-<h5 align="left">For Foreign</h5>
+<p><a href="https://ipn.eg/S/ashraf902/instapay/3ozZuD"> <img align="left" src="https://beshoy902.github.io/gpa/instapay.png" height="50" width="210" alt="beshoy902" /></a></p><br><br><br>
 <p><a href="https://www.buymeacoffee.com/beshoy902"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="beshoy902" /></a></p><br><br>
-
-<br>
 
 ### Visitors:
 <table>
