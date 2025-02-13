@@ -30,7 +30,7 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://ipn.eg/S/ashraf902/instapay/3ozZuD"> <img align="left" src="https://beshoy902.github.io/gpa/instapay.png" height="50" width="210" alt="beshoy902" /></a></p><br><br><br><br>
+<p><a href="https://ipn.eg/S/ashraf902/instapay/3ozZuD"> <img align="left" src="https://beshoy902.github.io/gpa/instapay.png" height="50" width="210" alt="beshoy902" /></a></p><br><br><br>
 <p><a href="https://www.buymeacoffee.com/beshoy902"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="beshoy902" /></a></p><br><br>
 
 ### Visitors:
