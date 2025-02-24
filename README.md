@@ -18,12 +18,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/beshoy902" target="blank"><img align="center" src="https://ugc.production.linktr.ee/UUIc9UHRuKx9kaMBTdNw_unnamed.png?io=true&amp;size=thumbnail-stack-v1_0" alt="beshoy902" height="30" width="30" /></a>
-<a href="https://x.com/beshoyashraf902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="beshoyashraf902" height="30" width="40" /></a>
-<a href="https://instagram.com/beshoy.902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beshoy.902" height="30" width="40" /></a>
+   <a href="https://learn.microsoft.com/en-us/users/beshoy902/" target="blank"><img align="center" src="https://www.pngplay.com/wp-content/uploads/9/Microsoft-Logo-PNG-Free-File-Download.png" alt="beshoy902" height="40" width="40" /></a>
 <a href="https://medium.com/@beshoy902" target="blank"><img align="center" src="https://ugc.production.linktr.ee/6c5d7de8-e679-4580-b48a-41071108d0b9_medium-logo-icon-189223.png" alt="@beshoy902" height="40" width="40" /></a>
 <a href="https://www.datacamp.com/portfolio/beshoy902" target="blank"><img align="center" src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_4072699d88b493349a899494aad8b890/datacamp.png" alt="beshoy902" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/beshoy902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="beshoy902" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/beshoy902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="beshoy902" height="30" width="40" /></a>
+<a href="https://x.com/beshoyashraf902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="beshoyashraf902" height="30" width="40" /></a>
+<a href="https://instagram.com/beshoy.902" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="beshoy.902" height="30" width="40" /></a>
 </p>
 
 
