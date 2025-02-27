@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking to collaborate on **Bug Bounty Hunting**
 
-- 📝 I regularly write articles on **[@beshoy902](https://beshoy902.medium.com)**
+- 📝 I regularly write articles on **[Medium](https://beshoy902.medium.com)**
 
 - 📫 How to reach me **[beshoy902@wearehackerone.com](mailto:beshoy902@wearehackerone.com)**
 
