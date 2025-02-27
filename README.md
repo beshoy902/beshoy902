@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Cyber Security**
 
-- 🌱 I’m currently learning **Business Information Systems**
+- 🌱 I’m currently learning **Business Information Systems & Data Engineering**
 
 - 🤝 I’m looking to collaborate on **Bug Bounty Hunting**
 
