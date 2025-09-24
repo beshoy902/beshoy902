@@ -48,10 +48,6 @@
   <a href="https://byteseg.online" target="_blank">
     <img src="https://admin.byteseg.online/Logo.png" alt="BytesEG Logo" width="150"/>
   </a>
-<h6 align="left">Follow Bytes</h3>
-<a href="https://linkedin.com/company/bytes-eg" target="blank"><img align="center" src="https://ugc.production.linktr.ee/UUIc9UHRuKx9kaMBTdNw_unnamed.png?io=true&amp;size=thumbnail-stack-v1_0" alt="beshoy902" height="30" width="30" /></a>
-</p>
-
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ipn.eg/S/beshoy902/instapay/3oIckz"> <img align="left" src="https://beshoy902.github.io/gpa/instapay.png" height="50" width="210" alt="beshoy902" /></a></p><br><br><br>
