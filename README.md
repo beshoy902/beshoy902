@@ -49,6 +49,8 @@
   <a href="https://byteseg.online" target="_blank">
     <img src="https://admin.byteseg.online/Logo.png" alt="BytesEG Logo" width="150"/>
   </a>
+<h3 align="left">Follow Us:</h3>
+<a href="https://linkedin.com/company/bytes-eg" target="blank"><img align="center" src="https://ugc.production.linktr.ee/UUIc9UHRuKx9kaMBTdNw_unnamed.png?io=true&amp;size=thumbnail-stack-v1_0" alt="beshoy902" height="30" width="30" /></a>
 </p>
 
 
