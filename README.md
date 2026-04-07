@@ -2,6 +2,10 @@
 <h3 align="center">A passionate Bug Bounty Hunter from Egypt 🇪🇬</h3>
 <br>
 
+### 🛡️ TryHackMe Progress
+![TryHackMe Stats](https://raw.githubusercontent.com/beshoy902/beshoy902/main/assets/thm_propic.png)
+
+
 - 🔭 I’m currently working on **Cyber Security**
 
 - 🌱 I’m currently learning **Business Information Systems & Data Engineering**
