@@ -1,12 +1,13 @@
 <h1 align="center">Hello 👋, I'm Beshoy Ashraf</h1>
-<h3 align="center">A passionate Bug Bounty Hunter from Egypt 🇪🇬</h3>
+<h3 align="center">A Founder of Bytes EG 🇪🇬</h3>
+<h3 align="center">And passionate Soc Analyst from Egypt 🇪🇬</h3>
 <br>
 
 - 🔭 I’m currently working on **Cyber Security**
 
 - 🌱 I’m currently learning **Business Information Systems & Data Engineering**
 
-- 🤝 I’m looking to collaborate on **Bug Bounty Hunting**
+- 🤝 I’m looking to collaborate on **Bug Bounty Hunting & Soc Analyst**
 
 - 📝 I regularly write articles on **[Medium](https://beshoy902.medium.com)**
 
