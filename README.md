@@ -46,7 +46,7 @@
 <h3 align="left">Founder:</h3>
 <p align="left">
   <a href="https://byteseg.online" target="_blank">
-    <img src="https://admin.byteseg.online/Logo.png" alt="BytesEG Logo" width="150"/>
+    <img src="https://admin.byteseg.com/Logo.png" alt="BytesEG Logo" width="150"/>
   </a>
    
 ---
